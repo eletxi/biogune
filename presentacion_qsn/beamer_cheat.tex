@@ -1,0 +1,17 @@
+call IMAP ('EBF', "\\begin{frame}{<++>}\<CR><++>\<CR>\\end{frame}\<CR>", 'tex')
+
+call IMAP ('EBB', "\\begin{block}{<++>}\<CR><++>\<CR>\\end{block}\<CR><++>", 'tex')
+
+\begin{frame}{Simulaciones}
+  \centering
+  \begin{block}{Simulación del campo magnético}
+    MatLab + femm
+  \end{block}
+  \vfill
+  \includegraphics[height=5cm]{celda}
+  \hskip 1cm
+  \includegraphics[height=5cm]{femm}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Requisitos}

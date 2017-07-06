@@ -1,0 +1,4 @@
+\select@language {spanish}
+\beamer@sectionintoc {1}{Objetivo}{3}{0}{1}
+\beamer@sectionintoc {2}{Ves\IeC {\'\i }culas}{4}{0}{2}
+\beamer@sectionintoc {3}{M\IeC {\'e}todos de fabricaci\IeC {\'o}n}{6}{0}{3}
